@@ -1,0 +1,25 @@
+---
+title: "Introducción R"
+author: "Leonardo Francisco Proaño Rhont"
+date: "26/2/2022"
+output: 
+  html_document:
+    mathjax: local
+    self_contained: true
+    fig_height: 6
+    fight_width: 8
+    theme: journal
+    highlight: espresso
+    toc: yes
+    toc_depht: 4
+    toc_float:
+      collapsed: no
+      smooth_scroll: yes
+---
+    
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Tarea 1 sobre R:
+### Ejercicio 1
