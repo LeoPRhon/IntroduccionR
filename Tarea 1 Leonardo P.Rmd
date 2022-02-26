@@ -1,10 +1,9 @@
 ---
 title: "Introducción R"
-author: "Leonardo Francisco Proaño Rhont"
+author: "Leonardo Francisco Proaño Rhon"
 date: "26/2/2022"
 output: 
   html_document:
-    mathjax: local
     self_contained: true
     fig_height: 6
     fight_width: 8
@@ -23,3 +22,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Tarea 1 sobre R:
 ### Ejercicio 1
+
+```{r Ejercicio1}
+# Ejercicio 1:
+ciudad <- "Quito"
+print(ciudad)
+```
