@@ -21,10 +21,18 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Tarea 1 sobre R:
-### Ejercicio 1
+### Ejercicio 1:
 
 ```{r Ejercicio1}
 # Ejercicio 1:
 ciudad <- "Quito"
 print(ciudad)
+```
+
+### Ejercicio 2:
+
+```{r Ejercicio2}
+# Ejercicio 2:
+pais_andes <- c("Argentina", "Bolivia", "Chile", "Colombia", "Ecuador", "Perú", "Venezuela")
+print(pais_andes)
 ```
